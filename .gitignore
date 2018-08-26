@@ -1,3 +1,7 @@
 .DS_Store
 .gradle
 src/*.state
+
+#Ignore any files in tmp dir
+*.js
+tmp/*
